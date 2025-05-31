@@ -23,6 +23,8 @@
 
 <h2 align="left">👀 Views:</h2>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Dev-Sachin25)
+
 ###
 
 <h2 align="left">💻 Tech Stack:</h2>
@@ -66,5 +68,9 @@
 ###
 
 <h2 align="left">📊 GitHub State:</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=Dev-Sachin25&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dev-Sachin25&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sachin25&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
